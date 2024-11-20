@@ -7,4 +7,4 @@ Proyecto que usa Arduino y Python para detectar la mano y encender LEDs por cada
 - Instrucciones detalladas para montar el proyecto.
 
 - 🎥 Video explicativo
-Mira el video completo aquí: [Enlace al video de YouTube]
+Mira el video completo aquí: [https://youtu.be/OKSoeVMvD1c]
